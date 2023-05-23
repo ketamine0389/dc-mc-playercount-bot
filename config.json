@@ -1,0 +1,5 @@
+{
+    "token"   : "bot token",
+    "serverIP": "ip for the server",
+    "interval": "time between checking the server (seconds)"
+}
